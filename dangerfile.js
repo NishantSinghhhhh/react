@@ -22,7 +22,7 @@
 //  0a7d5c3cad9a6dbec2d9 9a5222cf49062a4c1ef7
 //
 // (Just remove the space)
-//
+// It is a good repo
 // So, for example:
 //
 // `DANGER_GITHUB_API_TOKEN=[ENV_ABOVE] yarn danger pr https://github.com/facebook/react/pull/11865
